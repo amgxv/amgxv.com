@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on amgxv.com</title>
+    <link>https://amgxv.com/posts/</link>
+    <description>Recent content in Posts on amgxv.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://amgxv.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movistar TV &#43; IGMP Proxy con HGU/Smart Wi-Fi</title>
+      <link>https://amgxv.com/posts/movistar_tv_udpxy/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://amgxv.com/posts/movistar_tv_udpxy/</guid>
+      <description>A DÍA DE HOY NO FUNCIONARÁ PORQUE MOVISTAR ESTÁ USANDO DRM Una de las ventajas que nos aporta Movistar (respecto a la gran mayoría de operadores nacionales) es que nos da opción a usar nuestro propio router, cosa que se agradece bastante. Al final todo es tan simple como poner el modo monopuesto y conectar con PPPoE desde nuestro propio equipo y ya estaría. Pero&amp;hellip; ¿Y si queremos ver la tele desde el PC u otro dispositivo que no sea el deco de Movistar?</description>
+    </item>
+    
+  </channel>
+</rss>
